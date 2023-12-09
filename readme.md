@@ -4,7 +4,7 @@ Hi there! Welcome to my personal CS50 learning notes repository.
 
 The materials in this notebook are based on Harvard's CS50 course, which is available online [here](https://www.youtube.com/watch?v=IDDmrzzB14M&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4).
 
-**Note:** The notes might not be organized by weeks and will be uploaded as they become ready, not necessarily in chronological order.
+**Note:** The notes might not be organized by weeks and will be uploaded everytime I finished my study session, not necessarily in chronological order. I added the approximate progress percentage of each notebooks.
 
 ## Notes:
 - Each folder is dedicated to a specific week or topic.
